@@ -1,4 +1,4 @@
-### Student, currently learning HTML/CSS amongst other projects.
+### Studying Cyber Security, and currently learning HTML/CSS amongst other projects.
 
 <!--
 **samcole8/samcole8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
