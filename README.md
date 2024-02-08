@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Sam.
+
+Right now, I'm working on:
+
+***ysmr*** | Modular SSH notifications integrated with Logstash  
+***smallwall*** | (Small-scale & immutable firewall deployment system)  
+***tellmewhen*** | (Alert scheduling container that supports email, SMS and Telegram bots)  
+
+Check out my [personal blog](https://samcole.me) for other (past) projects!
 
 <!--
 **samcole8/samcole8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
