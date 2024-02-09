@@ -3,8 +3,8 @@
 Right now, I'm working on:
 
 ***ysmr*** | Modular SSH notifications integrated with Logstash  
-***smallwall*** | (Small-scale & immutable firewall deployment system)  
-***tellmewhen*** | (Alert scheduling container that supports email, SMS and Telegram bots)  
+***smallwall*** | Small-scale & immutable firewall deployment system  
+***tellmewhen*** | Alert scheduling container that supports email, SMS and Telegram bots
 
 Check out my [personal blog](https://samcole.me) for other (past) projects!
 
