@@ -3,7 +3,7 @@
 Right now, I'm working on:
 
 ***tellmewhen*** | Alert scheduling server/container that supports email, SMS and Telegram bots  
-***smallwall*** | Small-scale transparent firewall builder 
+***smallwall*** | Small-scale transparent firewall builder  
 ***ysmr*** | Modular SSH notifications integrated with Logstash *(taking a back seat for the moment)*
 
 Check out my [personal blog](http://samcole.me) for more!
