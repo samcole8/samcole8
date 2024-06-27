@@ -2,9 +2,10 @@
 
 Right now, I'm working on:
 
-[***tellmewhen***](https://github.com/samcole8/tellmewhen) | Alert scheduling server/container that supports email, SMS and Telegram bots  
-[***ysmr***](https://github.com/samcole8/ysmr) | Modular SSH notifications integrated with Logstash  
-[***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University dissertations
+<!--[***tellmewhen***](https://github.com/samcole8/tellmewhen) | Alert scheduling server/container that supports email, SMS and Telegram bots  
+[***ysmr***](https://github.com/samcole8/ysmr) | Modular SSH notifications integrated with Logstash-->
+[***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University dissertations  
+[***mootd***](https://github.com/samcole8/mootd) | Lightweight MOTD server using Cowsay, Fortune and Docker
 <!--[***smallwall***](https://github.com/samcole8/smallwall) | Small-scale transparent firewall builder-->
 
 Check out my [personal blog](http://samcole.me) for more.
