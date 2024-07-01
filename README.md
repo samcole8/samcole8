@@ -6,6 +6,7 @@ Right now, I'm working on:
 [***ysmr***](https://github.com/samcole8/ysmr) | Modular SSH notifications integrated with Logstash-->
 [***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University dissertations  
 [***mootd***](https://github.com/samcole8/mootd) | Lightweight MOTD server using Cowsay, Fortune and Docker
+[***conduct***](https://github.com/samcole8/conduct) | WIP Secrets management tool for Docker Compose
 <!--[***smallwall***](https://github.com/samcole8/smallwall) | Small-scale transparent firewall builder-->
 
 Check out my [personal blog](http://samcole.me) for more.
