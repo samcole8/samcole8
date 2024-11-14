@@ -4,12 +4,12 @@ Right now, I'm working on:
 
 <!--[***tellmewhen***](https://github.com/samcole8/tellmewhen) | Alert scheduling server/container that supports email, SMS and Telegram bots  
 [***ysmr***](https://github.com/samcole8/ysmr) | Modular SSH notifications integrated with Logstash-->
-[***superstatic***](github.com/samcole8/superstatic) | Static site server with enhanced features  
+[***superstatic***](https://github.com/samcole8/superstatic) | Static site server with enhanced features  
 [***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University dissertations  
 [***mootd***](https://github.com/samcole8/mootd) | Lightweight MOTD server using Cowsay, Fortune and Docker  
 <!--[***smallwall***](https://github.com/samcole8/smallwall) | Small-scale transparent firewall builder-->
 
-Check out my [personal blog](https://samcole.me) for more. (Maintenance ongoing)
+Check out my [personal blog](https://samcole.me) for more.
 
 <!--
 **samcole8/samcole8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
