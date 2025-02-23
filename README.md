@@ -5,9 +5,9 @@ Right now, I'm working on:
 <!--[***tellmewhen***](https://github.com/samcole8/tellmewhen) | Alert scheduling server/container that supports email, SMS and Telegram bots  
 [***ysmr***](https://github.com/samcole8/ysmr) | Modular SSH notifications integrated with Logstash
 [***superstatic***](https://github.com/samcole8/superstatic) | Static site server with enhanced features-->
-[***sendlog***](https://github.com/samcole8/sendlog) | Realtime log alert system  
-[***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University dissertations  
-[***mootd***](https://github.com/samcole8/mootd) | Lightweight MOTD server using Cowsay, Fortune and Docker  
+[***sendlog***](https://github.com/samcole8/sendlog) | Lightweight log alert framework  
+[***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University style reports  
+<!--[***mootd***](https://github.com/samcole8/mootd) | Lightweight MOTD server using Cowsay, Fortune and Docker  -->
 <!--[***smallwall***](https://github.com/samcole8/smallwall) | Small-scale transparent firewall builder-->
 
 Check out my [personal blog](https://samcole.me) for more.
