@@ -6,7 +6,7 @@ Right now, I'm working on:
 [***superstatic***](https://github.com/samcole8/superstatic) | Static site server with enhanced features-->
 [***tellmewhen***](https://github.com/samcole8/tellmewhen) | Regular alert/reminder scheduling service that supports email, SMS and Telegram endpoints  
 [***sendlog***](https://github.com/samcole8/sendlog) | Lightweight log alert framework  
-[***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University style reports  
+<!--[***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | LaTeX template for Southampton Solent University style reports  -->
 <!--[***mootd***](https://github.com/samcole8/mootd) | Lightweight MOTD server using Cowsay, Fortune and Docker  -->
 <!--[***smallwall***](https://github.com/samcole8/smallwall) | Small-scale transparent firewall builder-->
 
