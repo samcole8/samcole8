@@ -5,7 +5,7 @@ Right now, I'm working on:
 [***infrastructure-contracts-engine***](https://github.com/samcole8/infrastructure-contracts-engine) PoC system for consolidating IaC with non-IaC  
 [***terraform-provider-ice***](https://github.com/samcole8/terraform-provider-ice) PoC Terraform provider for the aforementioned Infrastructure Contracts Engine  
 [***pythonlc***](https://github.com/samcole8/pythonlc) Python-based, industrial-style logic controller framework designed for home automation  
-[***solent-latex-template***](https://github.com/samcole8/solent-latex-template) | Generic LaTeX template suitable for quick high-quality documents  
+[***generic-latex-template***](https://github.com/samcole8/generic-latex-template) | Generic LaTeX template suitable for quick high-quality documents  
 
 Meanwhile, these (functioning) projects are on temporary hiatus while I focus on the above:
 
