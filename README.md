@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Sam.
+
+Right now, I'm working on:
+
+[**infrastructure-contracts-engine**](https://github.com/samcole8/infrastructure-contracts-engine) PoC system for consolidating IaC with non-IaC  
+[**terraform-provider-ice**](https://github.com/samcole8/terraform-provider-ice) PoC Terraform provider for the aforementioned Infrastructure Contracts Engine  
+
+Check out my [**site**](https://samcole.net) for posts, essays, guides, and project write-ups.
 
 <!--
 **samcole8/samcole8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
